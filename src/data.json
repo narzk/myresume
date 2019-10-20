@@ -1,0 +1,53 @@
+{
+    "title":"I am Niloofar Arazkhani",
+    "subtitle": "Software Quality Assurance at Snapp Food | Master Degree in AmirKabir University",
+    "links": {
+        "linkedin":"https://www.linkedin.com/in/niloofar-arazkhani-1581025b/",
+        "google scholar":"https://scholar.google.com/citations?user=VOXDJ-4AAAAJ&hl=en&authuser=1"
+    },
+    "sections": [
+        {
+            "title": "About",
+            "item": [
+                {
+                    "type":"p",
+                    "content":" I am a hardworking, dreams follower and tireless person. I always find a goal for my life and head to it. I learn from my failures to achieve my goals. I believe in number of knowledge that I gain and number of years that I passed is not a matter to me."
+                }
+            ]
+        },
+        {
+            "title": "Skills",
+            "item": [
+                {
+                    "type":"card",
+                    "content": {
+                        "image": "/url",
+                        "title": "React"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content": {
+                        "image": "/url",
+                        "title": "JS"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content": {
+                        "image": "/url",
+                        "title": "CSS"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content": {
+                        "image": "/url",
+                        "title": "HTML"
+                    }
+                }
+
+            ]
+        }
+    ]
+}

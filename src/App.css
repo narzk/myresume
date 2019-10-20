@@ -1,0 +1,88 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+.text{
+  align-items: center;
+  padding: 5rem;
+}
+.navigation{
+  position: absolute;
+top: 10px;
+left: 10px;
+
+}
+.button{
+  border-radius: 12px;
+  background-color: #e7e7e7
+}
+.button:hover {
+  background-color: #fc03ad; 
+  color: white;
+}
+.heading{
+  color: white;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+.fullpage {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex: auto;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin:10 px;
+  background-color:rgb(59, 20,18)
+} 
+.first
+{
+  background-color: rgb(238, 45,123)
+}
+
+.second
+{
+  background-color:rgb(190, 147, 117)
+}
+.card
+{
+  height: 100px;
+  width: 100px;
+  background-color: white;
+  margin: 20px;
+  
+}
+.card:hover
+{
+  -moz-box-shadow: 0 0 10px #ccc;
+  -webkit-box-shadow: 0 0 10px #ccc;
+  box-shadow: 0 0 10px #ccc;
+}
+/* .fullpage{
+  height: 700px;
+  width: 700px;
+  background-color: deeppink;
+  margin:10 px;
+} */
+.flex-container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-content: space-between;
+}
